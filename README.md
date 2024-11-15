@@ -31,6 +31,23 @@ git clone https://github.com/earnwitharsu/nodepay.git
 ```bash
 cd nodepay
 ```
+# For Token Setup Run This Command
+Open np_tokens.txt: Run this command to open the file using the nano editor:
+
+```bash
+nano np_tokens.txt
+```
+or 
+```bash
+open -e np_tokens.txt
+```
+Paste Your Token: After opening the file, paste your token inside the file.
+
+Save and Exit:
+
+Press CTRL + X to exit.
+Press Y to confirm saving the changes.
+Press Enter to confirm the file name and save it.
 
 ## 2. Install Dependencies
 ```bash
