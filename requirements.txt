@@ -1,0 +1,4 @@
+aiohttp
+loguru
+colorama
+requests
