@@ -37,7 +37,7 @@ python3 main.py
 ```
 ## (if your are using this scrpit in mobile then run this command)
 ```bash
-python3 main.py
+python main.py
 ```
 
 ## Expected Output
